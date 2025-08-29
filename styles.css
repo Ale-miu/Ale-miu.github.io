@@ -1,0 +1,48 @@
+body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f8f8f8;
+            color: #333;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #ffcccb;
+            padding: 20px;
+        }
+
+        h1 {
+            font-size: 3em;
+            color: #ff6347;
+            margin: 0;
+        }
+
+        .cat-image {
+            width: 80%;
+            max-width: 600px;
+            margin: 20px 0;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .cat-description {
+            font-size: 1.2em;
+            color: #555;
+            max-width: 700px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        footer {
+            background-color: #ffcccb;
+            padding: 10px 0;
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+        }
+
+        .footer-text {
+            font-size: 1em;
+            color: #333;
+        }
